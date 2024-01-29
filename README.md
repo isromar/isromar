@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @isromar
 - 👀 I’m interested in Java, Python, Javascript, PHP
-- 🌱 I’m currently learning Java, Python, Javascript, PHP
 - 💞️ I’m looking for collaborating on Python mainly but Java and Javascript will be ok too.
 - 📫 How to reach me (in Spanish, Italian or English) check e-mail on my profile
 
